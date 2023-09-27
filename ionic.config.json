@@ -1,0 +1,7 @@
+{
+  "name": "Alarm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
