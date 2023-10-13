@@ -1,20 +1,14 @@
-<ion-header [translucent]="true">
-  <ion-toolbar>
-    <ion-title>
-      Blank
-    </ion-title>
-  </ion-toolbar>
-</ion-header>
-
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
-    </ion-toolbar>
-  </ion-header>
-
-  <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+  <div class="nav-bar">
+    <img style="width: 40px;" src="./../../assets/Isotipo_Purple_NoBCK.svg" />
+    <div class="button-container">
+      <ion-button (click)="OnLogoutClick()" expand="block" fill="clear" shape="round" [disabled]="alarmaActivada">
+        <ion-icon name="log-out-outline"></ion-icon>
+      </ion-button>
+    </div>
+  </div>
+  <div class="alarm-container">
+    <input type="checkbox" id="check" [disabled]="true" [checked]="alarmaActivada">
+    <label (click)="startWatching()" for="check" class="button1"></label>
   </div>
 </ion-content>

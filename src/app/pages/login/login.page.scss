@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
+*
+{
+    font-family: 'Kanit', sans-serif;
+}
+
+ion-content
+{
+    --background: #6969B3;
+}
+
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    flex-direction: column;
+    width: 100%;
+    height: 100%;
+}
+
+.container-form
+{
+    flex: 3;
+    width: 100%;
+    height: 100%;
+    background-color: #D1E3DD;
+    border-radius: 60px 60px 0px 0px;
+}
+
+.title-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex: 1;
+    h1
+    {
+        font-size: 2rem;
+    }
+}
+
+form
+{
+    width: 100%;
+    padding: 30px;
+}
+
+.login-field
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    --background: #D1E3DD;
+    margin-bottom: 50px;
+    padding: 10px;
+    border-bottom: solid 4px #6969B3;
+    ion-icon
+    {
+        color: #6969B3;
+        width: 50px;
+        font-size: 2rem;
+    }
+    ion-input
+    {
+        color: #6969B3;
+    }
+}
+
+.button-container
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ion-button
+{
+    width: 150px;
+    color:#D1E3DD;
+    background-color: #6969B3;
+    border-radius: 20px;
+    margin-top: 40px;
+}
+
+.img-container
+{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 40px 0px;
+}
+
+.img
+{
+    width: 70px;
+}
+
+.buttons-container
+{
+    display: flex;
+}

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 648.43 1021.71">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3, .cls-4 {
+        stroke-width: 0px;
+      }
+
+      .cls-3, .cls-5, .cls-6 {
+        fill: #fff;
+      }
+
+      .cls-7 {
+        letter-spacing: 0em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        letter-spacing: 0em;
+      }
+
+      .cls-11 {
+        letter-spacing: .02em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-4 {
+        fill: #efedef;
+      }
+
+      .cls-5 {
+        font-size: 98.64px;
+      }
+
+      .cls-5, .cls-14, .cls-6 {
+        font-family: AntiqueOliNorD-Reg, 'Antique Olive Nord D';
+      }
+
+      .cls-14 {
+        fill: #191919;
+        font-size: 136.31px;
+      }
+
+      .cls-15 {
+        letter-spacing: 0em;
+      }
+
+      .cls-6 {
+        font-size: 60px;
+      }
+
+      .cls-16 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <g id="Capa_3" data-name="Capa 3">
+    <path class="cls-3" d="m61.13,737.18h0c21.81,0,41.95-11.63,52.86-30.52l176.19-305.17c10.9-18.88,10.9-42.15,0-61.03l-30.72-53.21c-9.84-17.04-34.43-17.04-44.27,0L8.27,645.63c-23.49,40.69,5.87,91.55,52.86,91.55Z"/>
+    <path class="cls-4" d="m415.55,737.18h0c-21.81,0-41.95-11.63-52.86-30.52l-176.19-305.17c-10.9-18.88-10.9-42.15,0-61.03l30.72-53.21c9.84-17.04,34.43-17.04,44.27,0l206.91,358.38c23.49,40.69-5.87,91.55-52.86,91.55Z"/>
+    <path class="cls-4" d="m564.3,733.87h36.11c15.32,0,27.88-12.14,28.4-27.46l.86-25.25c.54-16.06-12.33-29.38-28.4-29.38h-36.97c-15.69,0-28.42,12.72-28.42,28.42v25.25c0,15.69,12.72,28.42,28.42,28.42Z"/>
+    <path class="cls-4" d="m582.78,611.61h0c20.08,0,36.98-18.59,39.28-43.23l26.11-279.24c2.71-29-15.65-54.44-39.28-54.44h-52.21c-23.64,0-41.99,25.44-39.28,54.44l26.11,279.24c2.3,24.64,19.2,43.23,39.28,43.23Z"/>
+    <text class="cls-6"><tspan class="cls-9" x="2.11" y="1006.65">P</tspan><tspan class="cls-15" x="60.37" y="1006.65">e</tspan><tspan class="cls-12" x="111.43" y="1006.65">r</tspan><tspan class="cls-8" x="149.47" y="1006.65">e</tspan><tspan x="200.47" y="1006.65">z </tspan><tspan class="cls-11" x="262.03" y="1006.65">C</tspan><tspan class="cls-15" x="314.53" y="1006.65">a</tspan><tspan class="cls-10" x="368.05" y="1006.65">r</tspan><tspan x="406.09" y="1006.65">denal</tspan></text>
+    <path class="cls-3" d="m103.84,0h371.4c38.27,0,69.35,31.07,69.35,69.35v76.69H126.79c-12.66,0-22.94-10.28-22.94-22.94V0h0Z"/>
+    <text class="cls-5" transform="translate(7.63 939.27)"><tspan class="cls-1" x="0" y="0">P</tspan><tspan class="cls-13" x="93.51" y="0">A</tspan><tspan class="cls-2" x="185.54" y="0">T</tspan><tspan class="cls-16" x="258.34" y="0">R</tspan><tspan class="cls-7" x="355.99" y="0">ICIO</tspan></text>
+  </g>
+  <g id="Capa_5" data-name="Capa 5">
+    <text class="cls-14" transform="translate(173.46 118.73)"><tspan x="0" y="0">4°B</tspan></text>
+  </g>
+</svg>
